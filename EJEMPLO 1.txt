@@ -1,0 +1,14 @@
+# Solicitar el nombre del usuario
+nombre = input("¿Cuál es tu nombre? ")
+
+# Solicitar la edad del usuario
+edad = int(input("¿Cuántos años tienes? "))
+
+# Calcular el año en que cumplirá 100 años
+anio_actual = 2023
+anio_cumple_100 = anio_actual + (100 - edad)
+
+# Solicitar el color favorito del usuario
+color_favorito = input("¿Cuál es tu color favorito? ")
+
+
